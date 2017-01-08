@@ -10,7 +10,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body  {
 	font-family: 'Arvo', serif;
 	font-size: 14px;
-	background: url(../images/siteBackground.png) repeat;
+	background: url(../img/siteBackground.png) repeat;
 	margin: 0; 
 	padding: 0;
 	color: #707070;
@@ -89,7 +89,7 @@ header .submenu li a:hover {
 .links li {
 	display:block;
 	border:0;
-	background:url(../images/p.png) no-repeat left 6px;
+	background:url(../img/p.png) no-repeat left 6px;
 	margin:0 0 0 35px;
 	padding:0 0 10px 7px;
 }
@@ -137,7 +137,7 @@ footer a:hover {
 	color: #FFF;
 	width: 960px;
 	text-align: center;
-	background:url(../images/menuBackground.jpg) repeat-x;
+	background:url(../img/menuBackground.jpg) repeat-x;
 	padding:17px 0;
 	height:18px;
 }
@@ -153,10 +153,10 @@ footer a:hover {
 	text-transform:uppercase;
 }
 #navcontainer ul li a:hover {
-	background:url(../images/menuActive.jpg) repeat-x;
+	background:url(../img/menuActive.jpg) repeat-x;
 	color:#FFFFFF;
 }
 #navlist #active a {
-	background:url(../images/menuActive.jpg) repeat-x;
+	background:url(../img/menuActive.jpg) repeat-x;
 	color:#FFFFFF;
 }
